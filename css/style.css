@@ -618,4 +618,9 @@ body {
     .prev, .next {
         top: 35%;
     }
+    
+    .slider_image img {
+        width: 80%;
+        max-width: 100%;
+}
 }
